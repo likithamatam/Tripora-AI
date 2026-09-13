@@ -1,0 +1,6 @@
+{
+  "name": "Tripora AI",
+  "description": "Autonomous travel planning agent that reads, reasons, calculates, acts, and replans trips for the Anakin Forge Hackathon 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
